@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b2f4ad4fecda93d4797a8ff101db146c
+  m_SerializeEntries:
+  - m_GUID: 3ba7241bded6ea34e98bdbb6c0cb2385
+    m_Address: GameLostScreen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f068082c607b692498ad0af90b4e2cf8
+    m_Address: Assets/Prefabs/Menu/PauseMenu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ba14f6b69d41f249ae9359ed2287498
+    m_Address: LoadingScreen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 979d9bce28caadb4ab6ef7ab543e57f0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ff09bdd2fc279ec4f823ea0f195be83e, type: 2}
+    - {fileID: 11400000, guid: ef518dcced9c1c94b917ce6d2b249f9d, type: 2}
